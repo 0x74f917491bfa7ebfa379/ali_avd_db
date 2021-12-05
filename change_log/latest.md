@@ -1,5 +1,5 @@
-version: 2021120510-b110
+version: 2021120518-05ee
 
-updated 11 avds
+updated 0 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2021/12/05/10/b110.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2021/12/05/18/05ee.txt)
