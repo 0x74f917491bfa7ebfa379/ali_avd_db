@@ -1,5 +1,5 @@
-version: 2022012902-cea7
+version: 2022012910-95f9
 
-updated 129 avds
+updated 34 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/01/29/02/cea7.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/01/29/10/95f9.txt)
