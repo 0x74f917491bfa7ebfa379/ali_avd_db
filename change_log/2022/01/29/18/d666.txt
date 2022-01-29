@@ -1,0 +1,6 @@
+version: 2022012918-d666
+
+updated 2 avds
+
+AVD-2021-4034
+AVD-2021-28714
