@@ -1,5 +1,5 @@
-version: 2022022802-da87
+version: 2022022810-cc1d
 
-updated 96 avds
+updated 8 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/02/28/02/da87.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/02/28/10/cc1d.txt)
