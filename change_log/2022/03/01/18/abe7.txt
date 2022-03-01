@@ -1,0 +1,7 @@
+version: 2022030118-abe7
+
+updated 3 avds
+
+AVD-2022-25062
+AVD-2022-24986
+AVD-2022-24124
