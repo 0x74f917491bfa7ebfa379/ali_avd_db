@@ -1,5 +1,5 @@
-version: 2022030910-d3df
+version: 2022030918-e13e
 
-updated 120 avds
+updated 2 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/03/09/10/d3df.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/03/09/18/e13e.txt)
