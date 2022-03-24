@@ -1,5 +1,5 @@
-version: 2022032402-ae46
+version: 2022032410-0dc8
 
-updated 99 avds
+updated 26 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/03/24/02/ae46.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/03/24/10/0dc8.txt)
