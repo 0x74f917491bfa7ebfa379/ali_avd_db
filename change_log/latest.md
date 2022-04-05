@@ -1,5 +1,5 @@
-version: 2022040502-acb2
+version: 2022040510-912d
 
-updated 4 avds
+updated 3 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/04/05/02/acb2.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/04/05/10/912d.txt)
