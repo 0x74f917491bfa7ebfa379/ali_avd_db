@@ -1,0 +1,8 @@
+version: 2022041318-ecec
+
+updated 4 avds
+
+AVD-2022-28893
+AVD-2022-27992
+AVD-2022-26904
+AVD-2022-1197
