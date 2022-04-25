@@ -1,5 +1,5 @@
-version: 2022042518-bb67
+version: 2022042602-e96c
 
-updated 17 avds
+updated 3 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/04/25/18/bb67.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/04/26/02/e96c.txt)
