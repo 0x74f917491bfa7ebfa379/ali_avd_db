@@ -1,5 +1,5 @@
-version: 2022050918-facd
+version: 2022051002-0d31
 
-updated 1 avds
+updated 0 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/05/09/18/facd.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/05/10/02/0d31.txt)
