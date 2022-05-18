@@ -1,0 +1,6 @@
+version: 2022051818-aa26
+
+updated 2 avds
+
+AVD-2022-22975
+AVD-2022-1220110
