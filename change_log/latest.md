@@ -1,5 +1,5 @@
-version: 2022070702-4df7
+version: 2022070711-dbc8
 
-updated 0 avds
+updated 26 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/07/02/4df7.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/07/11/dbc8.txt)
