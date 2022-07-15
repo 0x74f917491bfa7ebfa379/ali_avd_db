@@ -1,5 +1,5 @@
-version: 2022071518-ac7d
+version: 2022071602-b474
 
-updated 19 avds
+updated 152 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/15/18/ac7d.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/16/02/b474.txt)
