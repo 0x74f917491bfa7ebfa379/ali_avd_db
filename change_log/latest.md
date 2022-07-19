@@ -1,5 +1,5 @@
-version: 2022071918-af1e
+version: 2022072002-baec
 
-updated 0 avds
+updated 87 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/19/18/af1e.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/20/02/baec.txt)
