@@ -1,0 +1,6 @@
+version: 2022072811-991a
+
+updated 2 avds
+
+AVD-2022-2495
+AVD-2022-2444
