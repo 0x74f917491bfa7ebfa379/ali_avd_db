@@ -1,5 +1,5 @@
-version: 2022072918-bed0
+version: 2022073002-2018
 
-updated 0 avds
+updated 136 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/29/18/bed0.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/07/30/02/2018.txt)
