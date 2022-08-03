@@ -1,5 +1,5 @@
-version: 2022080311-8d33
+version: 2022080318-caca
 
-updated 1 avds
+updated 0 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/08/03/11/8d33.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/08/03/18/caca.txt)
