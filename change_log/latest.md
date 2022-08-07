@@ -1,5 +1,5 @@
-version: 2022080702-ae5c
+version: 2022080711-8bbf
 
-updated 127 avds
+updated 2 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/08/07/02/ae5c.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/08/07/11/8bbf.txt)
