@@ -1,5 +1,5 @@
-version: 2022082011-cebc
+version: 2022082018-0fd0
 
-updated 10 avds
+updated 0 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/08/20/11/cebc.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/08/20/18/0fd0.txt)
