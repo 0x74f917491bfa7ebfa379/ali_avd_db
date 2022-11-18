@@ -1,5 +1,5 @@
-version: 2022111811-bd45
+version: 2022111818-b4ba
 
-updated 457 avds
+updated 162 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/11/18/11/bd45.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/11/18/18/b4ba.txt)
