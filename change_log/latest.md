@@ -1,5 +1,5 @@
-version: 2022112018-37a2
+version: 2022112102-fa8d
 
 updated 0 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/11/20/18/37a2.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2022/11/21/02/fa8d.txt)
