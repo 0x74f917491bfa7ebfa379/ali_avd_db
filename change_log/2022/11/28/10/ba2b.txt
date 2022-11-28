@@ -1,0 +1,6 @@
+version: 2022112810-ba2b
+
+updated 2 avds
+
+AVD-2022-3374
+AVD-2022-3059
