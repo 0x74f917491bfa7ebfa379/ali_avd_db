@@ -1,5 +1,5 @@
-version: 2023011818-f2be
+version: 2023011902-9e9e
 
-updated 113 avds
+updated 39 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/01/18/18/f2be.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/01/19/02/9e9e.txt)
