@@ -1,5 +1,5 @@
-version: 2023013118-755a
+version: 2023020102-60eb
 
-updated 80 avds
+updated 17 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/01/31/18/755a.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/02/01/02/60eb.txt)
