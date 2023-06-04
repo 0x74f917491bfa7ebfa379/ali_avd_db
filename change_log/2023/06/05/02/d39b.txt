@@ -1,0 +1,6 @@
+version: 2023060502-d39b
+
+updated 2 avds
+
+AVD-2023-3095
+AVD-2023-3094
