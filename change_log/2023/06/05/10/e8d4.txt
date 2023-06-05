@@ -1,0 +1,6 @@
+version: 2023060510-e8d4
+
+updated 2 avds
+
+AVD-2023-33552
+AVD-2023-33551
