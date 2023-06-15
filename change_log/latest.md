@@ -1,5 +1,5 @@
-version: 2023061510-4d4b
+version: 2023061518-ce24
 
-updated 153 avds
+updated 81 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/06/15/10/4d4b.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/06/15/18/ce24.txt)
