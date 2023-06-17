@@ -1,5 +1,5 @@
-version: 2023061718-edcb
+version: 2023061802-cee2
 
-updated 47 avds
+updated 2 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/06/17/18/edcb.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/06/18/02/cee2.txt)
