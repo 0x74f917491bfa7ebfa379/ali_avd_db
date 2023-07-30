@@ -1,0 +1,6 @@
+version: 2023073018-3fe6
+
+updated 2 avds
+
+AVD-2023-3947
+AVD-2023-32001

@@ -1,5 +1,5 @@
-version: 2023073010-b96b
+version: 2023073018-3fe6
 
-updated 1 avds
+updated 2 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/07/30/10/b96b.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/07/30/18/3fe6.txt)
