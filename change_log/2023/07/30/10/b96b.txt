@@ -1,0 +1,5 @@
+version: 2023073010-b96b
+
+updated 1 avds
+
+AVD-2023-36542
