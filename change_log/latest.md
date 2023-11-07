@@ -1,5 +1,5 @@
-version: 2023080318-62cd
+version: 2023110711-fae4
 
-updated 305 avds
+updated 11972 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/08/03/18/62cd.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/11/07/11/fae4.txt)
