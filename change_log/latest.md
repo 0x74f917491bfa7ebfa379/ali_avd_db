@@ -1,5 +1,5 @@
-version: 2023111002-87a5
+version: 2023111010-db1c
 
-updated 91 avds
+updated 223 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/11/10/02/87a5.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/11/10/10/db1c.txt)
