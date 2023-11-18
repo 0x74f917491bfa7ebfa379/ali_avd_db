@@ -1,5 +1,5 @@
-version: 2023111802-4a34
+version: 2023111810-c3a0
 
-updated 54 avds
+updated 131 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/11/18/02/4a34.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/11/18/10/c3a0.txt)
