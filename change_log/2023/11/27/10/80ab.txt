@@ -1,0 +1,7 @@
+version: 2023112710-80ab
+
+updated 3 avds
+
+AVD-2023-6296
+AVD-2023-49312
+AVD-2023-35298
