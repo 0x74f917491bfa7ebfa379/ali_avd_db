@@ -1,5 +1,5 @@
-version: 2023120818-caf8
+version: 2023120902-3205
 
-updated 31 avds
+updated 6 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/12/08/18/caf8.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/12/09/02/3205.txt)
