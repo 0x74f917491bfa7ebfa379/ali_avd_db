@@ -1,5 +1,5 @@
-version: 2023122102-a0a6
+version: 2023122110-fa76
 
-updated 28 avds
+updated 184 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/12/21/02/a0a6.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2023/12/21/10/fa76.txt)
