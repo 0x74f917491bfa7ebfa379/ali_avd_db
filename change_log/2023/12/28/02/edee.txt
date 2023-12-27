@@ -1,0 +1,6 @@
+version: 2023122802-edee
+
+updated 2 avds
+
+AVD-2023-7090
+AVD-2023-7008
