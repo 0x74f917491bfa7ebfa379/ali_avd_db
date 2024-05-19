@@ -1,0 +1,7 @@
+version: 2024051918-2b0c
+
+updated 3 avds
+
+AVD-2024-5097
+AVD-2024-5096
+AVD-2024-5095
