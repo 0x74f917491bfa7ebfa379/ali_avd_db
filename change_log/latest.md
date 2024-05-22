@@ -1,5 +1,5 @@
-version: 2024052210-5f75
+version: 2024052218-ba74
 
-updated 441 avds
+updated 17 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2024/05/22/10/5f75.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2024/05/22/18/ba74.txt)
