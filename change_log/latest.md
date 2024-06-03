@@ -1,5 +1,5 @@
-version: 2024060318-abfc
+version: 2024060402-aba1
 
-updated 60 avds
+updated 59 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2024/06/03/18/abfc.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2024/06/04/02/aba1.txt)
