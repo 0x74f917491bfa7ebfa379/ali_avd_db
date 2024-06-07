@@ -1,5 +1,5 @@
-version: 2024060702-255a
+version: 2024060710-7ff7
 
-updated 52 avds
+updated 160 avds
 
-[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2024/06/07/02/255a.txt)
+[details](https://github.com/0x74f917491bfa7ebfa379/ali_avd_db/blob/master/change_log/2024/06/07/10/7ff7.txt)
